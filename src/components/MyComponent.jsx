@@ -24,8 +24,6 @@ class Mycomponent extends React.Component {
         })
     }
 
-
-
    render() {
           return (
             <div>

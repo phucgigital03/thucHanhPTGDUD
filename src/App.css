@@ -50,3 +50,19 @@
 .blue {
     color: blue;
 }
+
+.btn{
+    padding: 0px 6px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.btnDele{
+    background-color: red;
+    color: white;
+}
+
+.btnAdd{
+    background-color: rgb(27, 167, 242);
+    color: black;
+}

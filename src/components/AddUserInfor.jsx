@@ -30,8 +30,6 @@ class AddUserInfor extends React.Component{
         })
     }
 
-
-
     render(){
         
         // console.log(handleAddnewUser);
